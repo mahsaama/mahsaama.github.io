@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Max Planck Institute for Software systems (MPI-SWS), 2030 (expected)
+* M.S. in Computer Science, Saarland University, 2026 (expected)
+* B.S. in Computer Engineering, Sharif University of Technology, 2012
 
 Work experience
 ======
