@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant at Sharif University of Technology"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Sharif University of Technology, Computer Engineering Department"
+date: 2023-01-01
+location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I had the privilege of being a teaching assistant in the following courses:
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Natural Language Processing, [Dr. Ehsaneddin Asgari](https://scholar.google.com/citations?user=lIVvIFsAAAAJ&hl=en)
+* Probability and Statistics, [Prof. Ali Sharifi Zarchi](https://scholar.google.com/citations?user=GbJMZLIAAAAJ&hl=en)
+* Database Design, [Prof. Abbas Heydarnoori](https://scholar.google.com/citations?hl=en&user=s5vgK3kAAAAJ)
+* Operating Systems, [Prof. Hossein Asadi](https://scholar.google.com/citations?hl=en&user=fgNWK9YAAAAJ)
+* Python Programming, Dr. Issa Moradnejad
+* Digital System Design, Dr. Farshad Baharvand
+* Digital Design, Dr. Laleh Arshadi
