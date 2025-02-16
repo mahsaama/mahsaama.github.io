@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant at Sharif University of Technology"
+title: "Teaching Assistant at Sharif University of Technology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/TA_SUT
@@ -8,13 +8,12 @@ date: 2020-2023
 location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I had the privilage being teaching assistant in the following courses:
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Natural Language Processing, [Dr. Ehsaneddin Asgari](https://scholar.google.com/citations?user=lIVvIFsAAAAJ&hl=en)
+* Probability and Statistics, [Prof. Ali Sharifi Zarchi](https://scholar.google.com/citations?user=GbJMZLIAAAAJ&hl=en)
+* Database Design, [Prof. Abbas Heydarnoori](https://scholar.google.com/citations?hl=en&user=s5vgK3kAAAAJ)
+* Operating Systems, [Prof. Hossein Asadi](https://scholar.google.com/citations?hl=en&user=fgNWK9YAAAAJ)
+* Python Programming, Dr. Issa Moradnejad
+* Digital System Design, Dr. Farshad Baharvand
+* Digital Design, Dr. Laleh Arshadi
