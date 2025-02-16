@@ -1,8 +1,8 @@
 ---
 title: "Teaching Assistant at Sharif University of Technology"
 collection: teaching
-type: ""
-permalink: /teaching/2014-spring-teaching-1
+type: "Undergraduate course"
+permalink: /teaching/2023-teaching-assistant-1
 venue: "Sharif University of Technology, Computer Engineering Department"
 date: 2023-01-01
 location: "Tehran, Iran"
