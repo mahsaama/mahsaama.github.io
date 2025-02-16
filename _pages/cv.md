@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my complete CV [here](http://mahsaama.github.io/files/CV.pdf).
+
 Education
 ======
 * Ph.D in Computer Science, Max Planck Institute for Software systems (MPI-SWS), 2030 (expected)
