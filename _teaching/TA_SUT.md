@@ -8,7 +8,7 @@ date: 2020-2023
 location: "Tehran, Iran"
 ---
 
-I had the privilage being teaching assistant in the following courses:
+I had the privilege of being a teaching assistant in the following courses:
 
 * Natural Language Processing, [Dr. Ehsaneddin Asgari](https://scholar.google.com/citations?user=lIVvIFsAAAAJ&hl=en)
 * Probability and Statistics, [Prof. Ali Sharifi Zarchi](https://scholar.google.com/citations?user=GbJMZLIAAAAJ&hl=en)
