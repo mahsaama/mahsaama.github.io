@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant at Sharif University of Technology"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "Sharif University of Technology, Computer Engineering Department"
 date: 2023-01-01
